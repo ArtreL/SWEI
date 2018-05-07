@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+  <TestRunParameters>
+    <Parameter name="targetpath" value="C:\Users\Lukas\Documents\SWE1\Projekt\SWE1-CS\deploy" />
+  </TestRunParameters>
+</RunSettings>
